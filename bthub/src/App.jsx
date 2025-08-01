@@ -10,7 +10,7 @@ import ProgressBar from './components/ProgressBar'
 import Footer from './components/Footer'
 import Courts from './components/Courts'
 import Navbar from './components/Navbar'
-import WhyChooseUs from './components/WhyChooseUs'
+// import WhyChooseUs from './components/WhyChooseUs'
 
 
 const App = () => {
@@ -31,7 +31,7 @@ const App = () => {
       <div className='my-0'><Header/></div>
       
       <div className='my-10'><About/></div>
-      <div className='my-12'><WhyChooseUs/></div>
+      {/* <div className='my-12'><WhyChooseUs/></div> */}
       <hr className='border-0 h-0.5 bg-[#CFA386] opacity-20 rounded-full w-full max-w-6xl mx-auto' />
       <div className='my-10'><Courts/></div>
       <hr className='border-0 h-0.5 bg-[#CFA386] opacity-20 rounded-full w-full max-w-6xl mx-auto' />

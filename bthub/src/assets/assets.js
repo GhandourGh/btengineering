@@ -22,6 +22,10 @@ import c3 from './c3.svg'
 import c4 from './c4.svg'
 import c5 from './c5.svg'
 import c6 from './c6.svg'
+import shake from './shake.svg'
+import padel1 from './padel1.png'
+import padel2 from './padel2.png'
+import ball from './ball.svg'
 
 export const assets = {
     logo,
@@ -45,6 +49,10 @@ export const assets = {
     c4,
     c5,
     c6,
+    shake,
+    padel1,
+    padel2,
+    ball,
 }
 
 export const projectsData = [
